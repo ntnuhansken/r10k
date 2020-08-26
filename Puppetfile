@@ -1,5 +1,6 @@
 forge 'forge.puppetlabs.com'
 
+mod 'example42-network', '3.5.3'
 mod 'puppetlabs-concat', '6.2.0'
 mod 'puppetlabs-inifile', '4.2.0'
 mod 'puppetlabs-stdlib', '6.4.0'
