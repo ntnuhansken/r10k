@@ -1,6 +1,7 @@
 forge 'forge.puppetlabs.com'
 
 mod 'example42-network', '3.5.3'
+mod 'puppet-dhcp', '4.0.1'
 mod 'puppetlabs-concat', '6.2.0'
 mod 'puppetlabs-inifile', '4.2.0'
 mod 'puppetlabs-ntp', '8.3.0'
