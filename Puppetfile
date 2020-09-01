@@ -1,5 +1,6 @@
 forge 'forge.puppetlabs.com'
 
+mod 'cirrax-libvirt', '4.2.2'
 mod 'example42-network', '3.5.3'
 mod 'puppet-dhcp', '4.0.1'
 mod 'puppetlabs-concat', '6.2.0'
