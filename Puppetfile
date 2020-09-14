@@ -12,6 +12,7 @@ mod 'puppetlabs-tftp', '1.0.0'
 mod 'puppetlabs-translate', '2.2.0'
 mod 'puppetlabs-xinetd', '3.3.0'
 mod 'saz-ssh', '6.2.0'
+mod 'ssm-munin', '0.3.0'
 mod 'zehweh-netplan', '1.0.0'
 
 mod 'role',
